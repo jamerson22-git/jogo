@@ -1,0 +1,26 @@
+title{
+
+
+
+
+
+}
+
+    
+
+
+
+
+
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(10, 18, 136);
+    color: yellow;
+    font-family:Verdana;
+    font-size: 30px;
+}
